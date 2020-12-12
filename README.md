@@ -1,3 +1,3 @@
 # btc-price-tracker
 
-Run wih npm start
+Run with npm start
